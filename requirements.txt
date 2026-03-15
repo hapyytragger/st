@@ -1,0 +1,5 @@
+streamlit
+streamlit-autorefresh
+streamlit-webrtc
+aiortc
+Pillow
